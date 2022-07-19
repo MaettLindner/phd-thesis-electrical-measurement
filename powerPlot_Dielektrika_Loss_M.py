@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 16:09:52 2019
 
-@author: sit34954
+@author: lim38963
 """
 """
 Messdaten lesen
